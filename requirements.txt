@@ -2,4 +2,4 @@
 scikit-learn
 pandas
 scikit-surprise
-numpy
+numpy==1.26.4
